@@ -1,0 +1,22 @@
+{
+    "name": "mrflix/kirby-panel-icons",
+    "description": "Helper for including Remix Icons for the use in blueprints",
+    "version": "1.0.0",
+    "type": "kirby-plugin",
+    "homepage": "https://www.felixniklas.de",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felix Niklas",
+            "email": "mail@felixniklas.de"
+        }
+    ],
+    "require": {
+      "getkirby/composer-installer": "^1.1"
+    },
+    "config": {
+      "allow-plugins": {
+        "getkirby/composer-installer": true
+      }
+    }
+}
